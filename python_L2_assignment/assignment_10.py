@@ -1,3 +1,8 @@
+"""
+10.	Create a class called First and two classes called Second  and Third which inherit from First. 
+Create class called Fourth which inherits from Second and Third. Create a common method called method1 in 
+all the classes and provide the Method Resolution Order.
+"""
 
 import math
 class First: 
