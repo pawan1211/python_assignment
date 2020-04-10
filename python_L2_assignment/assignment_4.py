@@ -1,4 +1,12 @@
-
+"""
+4. Write a code to implement the following methods by defining a class called Mymath
+a) with__init__  
+1. sqroot
+2. addition
+3. subtraction
+4. multiplication
+5. division
+"""
 import math
 class Mymath:
  
