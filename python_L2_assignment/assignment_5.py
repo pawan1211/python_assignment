@@ -1,3 +1,8 @@
+"""
+ 5.Write a code to implement a child class called mathnew and parent classes as sqroot,   addition,subtraction, multiplication 
+  and division. Use the super() function to inherit the parent methods.
+  """
+
 import math
 class Mymath(object): 
  
