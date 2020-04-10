@@ -1,3 +1,6 @@
+"""
+7.	Write a code to compare two string data based on the length of the string hint; __gt__ method
+"""
 class Second(): 
    def __gt__(self,a,b):
        c=len(a)
