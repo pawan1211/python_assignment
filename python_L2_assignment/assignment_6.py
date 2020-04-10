@@ -1,3 +1,7 @@
+"""
+
+6.	Write a code to overload __add__ method to perform  2 x 2 matrix addition
+"""
 class Second(): 
    def __add__(self,a,b):
        rows, cols = (2,2) 
