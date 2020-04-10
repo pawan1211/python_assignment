@@ -1,3 +1,11 @@
+"""
+2.	 Given email='From abc.xyz@pqr.com Mon Dec 29 01:12:15 2016'
+write a regular  expression to extract 
+a. email id
+b. domain name
+c. time
+"""
+
 
 import re
 email='From abc.xyz@pqr.com Mon Dec 29 01:12:15 2016'
