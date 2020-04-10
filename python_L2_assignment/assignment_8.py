@@ -1,4 +1,7 @@
-
+"""
+9.Write a class called Circle and write the methods to calculate the area and circumference of the circle by 
+    initialing the radius of the circle. 
+    """
 class Circle:
     
  def area(self,a):
